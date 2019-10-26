@@ -1,11 +1,3 @@
-# Example Creations!
-_Created by UCBUGG Facilitators_<br><br>
-![Image](celbear.jpeg)
-![Image](darthbear.jpeg)  <br>
-_Jacob Holesinger and EJ Zamora_<br><br>
-![Image](toonbear.jpeg)  <br>
-_Alex Hong_
-
 # Creating the 3D Model with Autodesk Maya 
 ## 1. Model the head
 Start with a basic cube  
@@ -80,3 +72,12 @@ Adjust size and attributes to your liking
 Draw on bear  
 Use ‘Mirror Z’ if desired  
 ## 5. Have fun!
+
+# Example Creations!
+_Created by UCBUGG Facilitators_<br><br>
+![Image](celbear.jpeg)
+![Image](darthbear.jpeg)  <br>
+_Jacob Holesinger and EJ Zamora_<br><br>
+![Image](toonbear.jpeg)  <br>
+_Alex Hong_
+
