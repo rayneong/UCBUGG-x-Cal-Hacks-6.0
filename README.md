@@ -1,4 +1,5 @@
-# Creating the 3D Model with Autodesk Maya 
+# Creating the 3D Model with Autodesk Maya
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAg1McErSPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## 1. Model the head
 Start with a basic cube  
 Reduce to 0 subdivisions  
