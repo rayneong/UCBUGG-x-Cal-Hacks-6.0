@@ -1,9 +1,9 @@
 # Example Creations!
 _Created by UCBUGG Facilitators_
-![Image](celbear.jpg)
-![Image](darthbear.jpg)
+![Image](celbear.jpeg)
+![Image](darthbear.jpeg)
 _Jacob Holesinger and EJ Zamora_
-![Image](toonbear.jpg)
+![Image](toonbear.jpeg)
 _Alex Hong_
 
 # Creating the 3D Model with Autodesk Maya 
@@ -57,7 +57,7 @@ Make sure that all results have ‘Load’ and ‘Auto Load’ checkmarked
 With bear selected, go to ‘File -> Export Selection’  
 For ‘files of type’ change from ‘Maya Binary’ to ‘FBX export’  
 
-![Image](spbear.jpg)
+![Image](spbear.jpeg)
 # Creating the textures with Substance Painter
 ## 1. Start a new project
 ‘File → New’  
